@@ -6,10 +6,11 @@ html {
     font-size: 16px;
     height: 100%;
     background-color: black;
+    overflow-x: hidden;
 }
 
 body {
-    max-width: 1300px;
+    max-width: 75%;
     margin: auto;
     height: 100%;
     width: 100%;
@@ -28,8 +29,11 @@ span {
     color: rgb(235, 180, 132);
 }
 
-header {
+.header {
+    top: 0;
     position: fixed;
+    width:75%;
+    background-color: black;
 }
 
 .container {
@@ -38,9 +42,25 @@ header {
     align-items: center;
 }
 
+.wrapper {
+    height: 100vh;
+    display: flex; 
+    align-items: center;
+    padding-left: .5rem;
+}
+
+
+
+
+
 .logo {
-    padding-left: 1rem;
+    padding-left: .5rem;
     margin-right: auto; 
+}
+
+.logo a {
+    text-decoration: none;
+    color: white; 
 }
 
 nav li {
@@ -68,16 +88,14 @@ nav ul {
     padding-right: 1rem;
 }
 
-.wrapper {
-    height: 100vh;
-    display: flex; 
-    align-items: center;
-    padding-left: .5rem;
-}
+
+
+
+
 
 .about {
     max-width: 100%;
-
+    padding-left: .5rem;
 }
 
 .about h2 {
@@ -93,6 +111,7 @@ nav ul {
     background-color: black;
     color: white;
     padding: 0;
+    margin: 0 1rem 1.5rem 0;
     width: 5.5rem;
     height: 2.5rem;
     border: 2px rgb(84, 145, 111) solid;
@@ -103,14 +122,15 @@ nav ul {
 }
 
 button:hover {
-    background-color: rgb(84, 145, 111, 0.582);
+    background-color: rgb(235, 180, 132);
     color: white;
-    border: 2px rgb(84, 145, 111) solid;
+    border: 2px rgb(235, 180, 132) solid;
 }
 
 .links {
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
+    flex-wrap: wrap;
     padding-top: 3rem;
 }
 
@@ -124,13 +144,18 @@ button:hover {
     color: white;
 }
 
+
+
+
+
 .articles-wrapper {
-    height: 1000px;
     padding-left: .5rem;
+    padding-bottom: 2rem;
 }
 
 .articles-wrapper h2{
-    padding-top: 3rem;
+    padding-top: 5rem;
+    padding-left: .5rem;
 }
 
 .cards {
@@ -167,3 +192,114 @@ button:hover {
 
 
 
+.projects-wrapper h2{
+    padding-left: .5rem;
+    padding-bottom: 3rem;
+    padding-top: 5rem;
+}
+.projects {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.split {
+    display: inline-block;
+    padding-top: 3rem;
+    max-width: 40%;
+    min-width: 20rem;
+}
+
+.split img {
+    max-width: 100%;
+    padding-top: .5rem;
+}
+
+.contact-form {
+    position: absolute;
+    left: 0; 
+    right: 0; 
+    padding: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(235, 180, 132);
+}
+
+.contact-form h2 {
+    text-align: center;
+    width: 100%;
+    color: black;
+}
+
+form {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.form-control {
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 1rem;
+    width: 90%;
+    max-width: 600px;
+    background: transparent;
+    border: none; 
+    outline: none; 
+    border-bottom: 2px solid black; 
+    color: black;
+    margin-bottom: 16px;
+}
+
+form .submit {
+    background: black; 
+    border-color: transparent;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px; 
+    margin-top: 20px; 
+    border-radius: 10px;
+}
+
+@media (max-width: 759px) {
+    nav {
+        display: none; 
+    }
+   .logo {
+       margin: auto;
+       padding: 2rem 0; 
+       width: auto;
+       flex-basis: 0;
+   }
+    .links button {
+        background-color: rgb(84, 145, 111);
+        width: 75%;
+    }
+    .about {
+        
+        width: 100%;
+    }
+    .header {
+        width: 100vw;
+        left: 0; 
+        right: 0; 
+    }
+    .links {
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+
+    }
+    .projects {
+        justify-content: space-around;
+    }
+
+    .projects-wrapper h2 {
+        text-align: center;
+    }
+
+    .articles-wrapper h2{
+        text-align: center;
+    }
+
+}
