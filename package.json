@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
-
+  "scripts": {
+    "start": "node index.html"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ukates/etc_portfolio.git"
