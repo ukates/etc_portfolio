@@ -24,7 +24,7 @@
         </div>
     </div>
 
-    <div class='wrapper'>
+    <div class='wrapper' id="about-wrapper">
         <div class="about" id="about">
             <h2>Hello  &#128075</h2>
             <h2>My name is <span>Evelyn</span></h2>
