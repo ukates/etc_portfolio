@@ -111,7 +111,7 @@
     </div>
     <div class="contact-form">
         <h2>Contact Me</h2>
-        <form id="contact-form" method="POST" action="https://formsubmit.co/derrickcates@outlook.com">
+        <form id="contact-form" method="POST" action="https://formsubmit.co/derrickcates@icloud.com">
             <input type="text" name = "name" class = "form-control" placeholder="Your Name" required>
             <br>
             <input type="text" name = "email" class = "form-control" placeholder="Your Email" required>
