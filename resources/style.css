@@ -111,7 +111,7 @@ nav ul {
 }
 
 .links button {
-    background-color: black;
+    background-color: rgb(84, 145, 111);
     color: white;
     padding: 0;
     margin: 0 1rem 1.5rem 0;
@@ -178,7 +178,7 @@ button:hover {
     margin: 1rem auto;
     padding: 3rem 2rem;
     color: white;
-    background-color: black;
+    background-color: rgb(84, 145, 111);
     border-radius: 15px;
     border: 4px rgb(84, 145, 111) solid;
 }
