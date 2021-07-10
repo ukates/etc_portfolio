@@ -57,6 +57,9 @@ span {
     padding-left: .5rem;
     margin-right: auto; 
 }
+.logo img{
+    height: 100px;
+}
 
 .logo a {
     text-decoration: none;
