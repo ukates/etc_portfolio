@@ -44,24 +44,24 @@
         <h2>Projects</h2>
         <div class="projects" >
             <div class="split">
-                <h3><span>Project One</span></h3>
+                <h3><span>Exploratory Data Analysis in R</span></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates mollitia et sint ducimus error eum quos culpa quasi harum voluptatem aspernatur reiciendis iure dicta impedit, quibusdam minima earum corrupti officia?</p>
-                <img src="resources/images/bg.jpg" alt="">
+                <img src="resources/images/trash_404x311.jpg" alt="">
             </div>
             <div class="split">
-                <h3><span>Project One</span></h3>
+                <h3><span>Web Scraping</span></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates mollitia et sint ducimus error eum quos culpa quasi harum voluptatem aspernatur reiciendis iure dicta impedit, quibusdam minima earum corrupti officia?</p>
-                <img src="resources/images/graphs of performance analytics on a laptop screen.jpg" alt="">
+                <img src="resources/images/air_pollution_404x311.jpg" alt="">
             </div>
             <div class="split">
-                <h3><span>Project One</span></h3>
+                <h3><span>Supervised Text Classifier</span></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates mollitia et sint ducimus error eum quos culpa quasi harum voluptatem aspernatur reiciendis iure dicta impedit, quibusdam minima earum corrupti officia?</p>
-                <img src="resources/images/monitor screengrab.jpg" alt="">
+                <img src="resources/images/proj_pic_txt_classification_404x311.jpg" alt="">
             </div>
             <div class="split">
-                <h3><span>Project One</span></h3>
+                <h3><span>Fetal Health Classification</span></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates mollitia et sint ducimus error eum quos culpa quasi harum voluptatem aspernatur reiciendis iure dicta impedit, quibusdam minima earum corrupti officia?</p>
-                <img src="resources/images/red and white heart illustration.jpg" alt="">
+                <img src="resources/images/fetal_health_404x311.jpg" alt="">
             </div>
         </div>
     </div>
