@@ -28,7 +28,7 @@
         <div class="about" id="about">
             <h2>Hello  &#128075</h2>
             <h2>My name is <span>Evelyn</span></h2>
-            <h3>and my work is at the intersection of data science and world questions.</h3>
+            <h3>and I use data science to better understand our world.</h3>
             <div class="links">
                 <div class="div links">
                     <a href="https://github.com/evelyntc" target=_blank><button>Github</button></a>
