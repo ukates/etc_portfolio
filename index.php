@@ -45,22 +45,22 @@
         <div class="projects" >
             <div class="split">
                 <h3><span>Exploratory Data Analysis in R</span></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates mollitia et sint ducimus error eum quos culpa quasi harum voluptatem aspernatur reiciendis iure dicta impedit, quibusdam minima earum corrupti officia?</p>
+                <p> Understanding NYC recycling rates.</p>
                 <img src="resources/images/trash_404x311.jpg" alt="">
             </div>
             <div class="split">
                 <h3><span>Web Scraping</span></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates mollitia et sint ducimus error eum quos culpa quasi harum voluptatem aspernatur reiciendis iure dicta impedit, quibusdam minima earum corrupti officia?</p>
+                <p>Scraping global air pollution data from multiple sites.</p>
                 <img src="resources/images/air_pollution_404x311.jpg" alt="">
             </div>
             <div class="split">
                 <h3><span>Supervised Text Classifier</span></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates mollitia et sint ducimus error eum quos culpa quasi harum voluptatem aspernatur reiciendis iure dicta impedit, quibusdam minima earum corrupti officia?</p>
+                <p> Creating a word cloud from positive and negative IMDB reviews.</p>
                 <img src="resources/images/proj_pic_txt_classification_404x311.jpg" alt="">
             </div>
             <div class="split">
                 <h3><span>Fetal Health Classification</span></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates mollitia et sint ducimus error eum quos culpa quasi harum voluptatem aspernatur reiciendis iure dicta impedit, quibusdam minima earum corrupti officia?</p>
+                <p> Using Classification methods to accurately predict fetal health.</p>
                 <img src="resources/images/fetal_health_404x311.jpg" alt="">
             </div>
         </div>
