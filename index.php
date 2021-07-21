@@ -33,7 +33,7 @@
                 <div class="div links">
                     <a href="https://github.com/evelyntc" target=_blank><button>Github</button></a>
                     <a href="https://evelyntc.medium.com/" target=_blank><button>Medium</button></a>
-                    <a href="https://www.linkedin.com/in/evelyn-cates-140285166" target=_blank><button>Linkdin</button></a>
+                    <a href="https://www.linkedin.com/in/evelyn-cates-140285166" target=_blank><button>Linkedin</button></a>
                     <!--<a href="#"><button>Other</button></a>-->
                 </div>
             </div>
