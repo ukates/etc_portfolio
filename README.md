@@ -1,1 +1,1 @@
-My portfolio code by ukates
+First draft of my portfolio. Created by: ukates
