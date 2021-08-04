@@ -28,12 +28,12 @@
         <div class="about" id="about">
             <h2>Hello  &#128075</h2>
             <h2>My name is <span>Evelyn</span></h2>
-            <h3>and I use data science to better understand our world.</h3>
+            <h3>and I use data science to better understand our world and create meaningful impact in our society.</h3>
             <div class="links">
                 <div class="div links">
-                    <a href="https://github.com/evelyntc" target=_blank><button>Github</button></a>
+                    <a href="https://github.com/evelyntc" target=_blank><button>GitHub</button></a>
                     <a href="https://evelyntc.medium.com/" target=_blank><button>Medium</button></a>
-                    <a href="https://www.linkedin.com/in/evelyn-cates-140285166" target=_blank><button>Linkedin</button></a>
+                    <a href="https://www.linkedin.com/in/evelyn-cates-140285166" target=_blank><button>LinkedIn</button></a>
                     <!--<a href="#"><button>Other</button></a>-->
                 </div>
             </div>
